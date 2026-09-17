@@ -1,0 +1,412 @@
+{
+  "letters": {
+    "A": {
+      "description": "Fist with the thumb resting alongside the fist, not tucked inside.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "curl",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   .   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "B": {
+      "description": "Flat hand, four fingers together pointing up, thumb folded across the palm.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "up",
+        "middle": "up",
+        "ring": "up",
+        "pinky": "up"
+      },
+      "glyph": " .   |   |   |   | \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "C": {
+      "description": "Fingers and thumb curved together to form the shape of the letter C.",
+      "fingers": {
+        "thumb": "out",
+        "index": "hook",
+        "middle": "hook",
+        "ring": "hook",
+        "pinky": "hook"
+      },
+      "glyph": " /   n   n   n   n \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "D": {
+      "description": "Index finger points up, other fingers curl to touch the thumb.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "up",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   |   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "E": {
+      "description": "Fingertips curled down to touch the thumb, hand held in a tight claw.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "curl",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   .   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "F": {
+      "description": "Thumb and index finger touch to form a circle, other three fingers extended up.",
+      "fingers": {
+        "thumb": "hook",
+        "index": "hook",
+        "middle": "up",
+        "ring": "up",
+        "pinky": "up"
+      },
+      "glyph": " n   n   |   |   | \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "G": {
+      "description": "Index finger and thumb point sideways, parallel to each other, like a gun shape.",
+      "fingers": {
+        "thumb": "out",
+        "index": "out",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " /   /   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "H": {
+      "description": "Index and middle fingers extended sideways together, thumb tucked.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "out",
+        "middle": "out",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   /   /   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "I": {
+      "description": "Fist with only the pinky finger extended upward.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "curl",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "up"
+      },
+      "glyph": " .   .   .   .   | \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "J": {
+      "description": "Like I, pinky extended, then traced in the air drawing the letter J (motion sign).",
+      "fingers": {
+        "thumb": "curl",
+        "index": "curl",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "up"
+      },
+      "glyph": " .   .   .   .   | \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "K": {
+      "description": "Index and middle fingers extended in a V, thumb placed between them.",
+      "fingers": {
+        "thumb": "out",
+        "index": "up",
+        "middle": "out",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " /   |   /   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "L": {
+      "description": "Thumb and index finger extended to form a right angle (an L shape).",
+      "fingers": {
+        "thumb": "out",
+        "index": "up",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " /   |   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "M": {
+      "description": "Thumb tucked under three folded fingers (index, middle, ring).",
+      "fingers": {
+        "thumb": "curl",
+        "index": "hook",
+        "middle": "hook",
+        "ring": "hook",
+        "pinky": "curl"
+      },
+      "glyph": " .   n   n   n   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "N": {
+      "description": "Thumb tucked under two folded fingers (index, middle).",
+      "fingers": {
+        "thumb": "curl",
+        "index": "hook",
+        "middle": "hook",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   n   n   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "O": {
+      "description": "All fingers and thumb curved to meet at the tips, forming a round O shape.",
+      "fingers": {
+        "thumb": "out",
+        "index": "hook",
+        "middle": "hook",
+        "ring": "hook",
+        "pinky": "hook"
+      },
+      "glyph": " /   n   n   n   n \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "P": {
+      "description": "Like K, but the hand is pointed downward instead of up.",
+      "fingers": {
+        "thumb": "out",
+        "index": "up",
+        "middle": "out",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " /   |   /   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "Q": {
+      "description": "Like G, but the hand is pointed downward instead of up.",
+      "fingers": {
+        "thumb": "out",
+        "index": "out",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " /   /   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "R": {
+      "description": "Index and middle fingers crossed, thumb holding the ring/pinky down.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "cross",
+        "middle": "up",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   x   |   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "S": {
+      "description": "Closed fist with the thumb crossed in front over the fingers.",
+      "fingers": {
+        "thumb": "cross",
+        "index": "curl",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " x   .   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "T": {
+      "description": "Fist with the thumb tucked between the index and middle fingers.",
+      "fingers": {
+        "thumb": "hook",
+        "index": "hook",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " n   n   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "U": {
+      "description": "Index and middle fingers extended straight up together, side by side.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "up",
+        "middle": "up",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   |   |   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "V": {
+      "description": "Index and middle fingers extended up and spread apart, forming a V.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "up",
+        "middle": "up",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   |   |   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "W": {
+      "description": "Index, middle, and ring fingers extended up and spread apart.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "up",
+        "middle": "up",
+        "ring": "up",
+        "pinky": "curl"
+      },
+      "glyph": " .   |   |   |   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "X": {
+      "description": "Index finger bent into a hook shape, other fingers curled, thumb resting alongside.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "hook",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   n   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "Y": {
+      "description": "Thumb and pinky extended outward, other fingers curled (a 'hang loose' shape).",
+      "fingers": {
+        "thumb": "out",
+        "index": "curl",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "up"
+      },
+      "glyph": " /   .   .   .   | \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "Z": {
+      "description": "Index finger traces the letter Z in the air (motion sign).",
+      "fingers": {
+        "thumb": "curl",
+        "index": "up",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   |   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    }
+  },
+  "digits": {
+    "0": {
+      "description": "Fingers and thumb curved together forming a round zero, like the letter O.",
+      "fingers": {
+        "thumb": "out",
+        "index": "hook",
+        "middle": "hook",
+        "ring": "hook",
+        "pinky": "hook"
+      },
+      "glyph": " /   n   n   n   n \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "1": {
+      "description": "Fist with only the index finger extended straight up.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "up",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   |   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "2": {
+      "description": "Index and middle fingers extended up together, like the letter U.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "up",
+        "middle": "up",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " .   |   |   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "3": {
+      "description": "Thumb, index, and middle fingers extended up, other fingers curled.",
+      "fingers": {
+        "thumb": "out",
+        "index": "up",
+        "middle": "up",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " /   |   |   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "4": {
+      "description": "Four fingers extended straight up together, thumb folded across the palm.",
+      "fingers": {
+        "thumb": "curl",
+        "index": "up",
+        "middle": "up",
+        "ring": "up",
+        "pinky": "up"
+      },
+      "glyph": " .   |   |   |   | \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "5": {
+      "description": "All five fingers spread open and extended.",
+      "fingers": {
+        "thumb": "out",
+        "index": "up",
+        "middle": "up",
+        "ring": "up",
+        "pinky": "up"
+      },
+      "glyph": " /   |   |   |   | \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "6": {
+      "description": "Thumb touches the pinky tip, other three fingers extended up.",
+      "fingers": {
+        "thumb": "out",
+        "index": "curl",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "up"
+      },
+      "glyph": " /   .   .   .   | \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "7": {
+      "description": "Thumb touches the ring finger tip, other fingers extended.",
+      "fingers": {
+        "thumb": "out",
+        "index": "curl",
+        "middle": "curl",
+        "ring": "up",
+        "pinky": "curl"
+      },
+      "glyph": " /   .   .   |   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "8": {
+      "description": "Thumb touches the middle finger tip, other fingers extended.",
+      "fingers": {
+        "thumb": "out",
+        "index": "curl",
+        "middle": "up",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " /   .   |   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    },
+    "9": {
+      "description": "Thumb touches the index finger tip, other fingers extended.",
+      "fingers": {
+        "thumb": "out",
+        "index": "up",
+        "middle": "curl",
+        "ring": "curl",
+        "pinky": "curl"
+      },
+      "glyph": " /   |   .   .   . \n |   |   |   |   | \n \\___________/ \n     |___|     "
+    }
+  },
+  "special": {
+    "space": {
+      "description": "A pause between signed words.",
+      "glyph": "   . . .   \n  (pause)  \n  -------  \n           "
+    },
+    "unknown": {
+      "description": "Character has no fingerspelling sign (punctuation/symbol); shown as a placeholder.",
+      "glyph": "     ?     \n    ???    \n  -------  \n           "
+    }
+  }
+}
